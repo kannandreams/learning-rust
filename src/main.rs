@@ -1,7 +1,3 @@
 fn main() {
-    println!("Rust Learning Repo!");
-
+    println!("Rust Learning Package - Main process!");
 }
-
-
-
