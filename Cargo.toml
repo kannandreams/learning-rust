@@ -3,6 +3,9 @@ name = "rust-learning"
 version = "0.1.0"
 edition = "2021"
 
+
 [dependencies]
-rand = "0.8.4"
+clap = "2.27.1"                                              # from crates.io
 colored = "2.0.0"
+rand = { git = "https://github.com/rust-lang-nursery/rand" } # from online repository
+utils = { path = "./utils" }                                 # from a path
