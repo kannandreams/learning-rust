@@ -33,27 +33,43 @@
 
 ### Creational Patterns**
 
-**Singleton**
+1. **Singleton**
 
+  [Code Example](design-patterns/singleton_pattern.rs)
 
-[Implementation](design-patterns/singleton_pattern.rs)
+2. **Builders**
 
-**Builders**
+  [Code Example](design-patterns/builder_pattern.rs)
 
-Abstract Factory
+3. **Abstract Factory**
 
-- Behavioural Patterns
-  - Command
-  - Observer
-  - Strategy
-  - State
-  - Iterator
+  [Code Example](design-patterns/factory_pattern.rs)
 
-- Structural Patterns
-  - Adaptor
-  - Decorator
-  - Facade
-  - Proxy
+### Behavioural Patterns
+  
+1. **Command**
+
+  [Code Example](design-patterns/command_pattern.rs)
+
+2. **Observer**
+
+  [Code Example](design-patterns/observer_pattern.rs)
+
+3. **Strategy**
+
+4. **State**
+
+5. **Iterator**
+
+### Structural Patterns
+
+1. **Adaptor**
+
+2. **Decorator**
+
+3. **Facade**
+
+4. **Proxy**
 
 #### Commands
 
