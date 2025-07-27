@@ -28,6 +28,33 @@
 - Concurrency
 - Macros
 
+
+## Design Patterns
+
+### Creational Patterns**
+
+**Singleton**
+
+
+[Implementation](design-patterns/singleton_pattern.rs)
+
+**Builders**
+
+Abstract Factory
+
+- Behavioural Patterns
+  - Command
+  - Observer
+  - Strategy
+  - State
+  - Iterator
+
+- Structural Patterns
+  - Adaptor
+  - Decorator
+  - Facade
+  - Proxy
+
 #### Commands
 
 `cargo new rust-learning --bin`
