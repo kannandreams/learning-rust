@@ -1,4 +1,4 @@
-# rust-learning
+# Rust cookbook
 
 ## Learning Guide for Rustaceans
 
