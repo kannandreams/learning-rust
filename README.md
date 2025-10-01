@@ -31,45 +31,21 @@
 
 ## Design Patterns
 
-### Creational Patterns**
+| Category       | Pattern           | Rust Example                                         |
+|----------------|------------------|-------------------------------------------------------|
+| **Creational** | Singleton        | [Rust Code](design-patterns/singleton_pattern.rs)     |
+|                | Builder          | [Rust Code](design-patterns/builder_pattern.rs)       |
+|                | Abstract Factory | [Rust Code](design-patterns/factory_pattern.rs)       |
+| **Behavioural**| Command          | [Rust Code](design-patterns/command_pattern.rs)       |
+|                | Observer         | [Rust Code](design-patterns/observer_pattern.rs)      |
+|                | Strategy         | [Rust Code](design-patterns/strategy_pattern.rs)      |
+|                | State            | [Rust Code](design-patterns/state_pattern.rs)         |
+|                | Iterator         | TODO                                                  |
+| **Structural** | Adapter          | [Rust Code](design-patterns/adaptor_pattern.rs)       |
+|                | Decorator        | [Rust Code](design-patterns/decorator_pattern.rs)     |
+|                | Facade           | TODO                                                  |
+|                | Proxy            | TODO                                                  |
 
-1. **Singleton**
-
-  [Code Example](design-patterns/singleton_pattern.rs)
-
-2. **Builders**
-
-  [Code Example](design-patterns/builder_pattern.rs)
-
-3. **Abstract Factory**
-
-  [Code Example](design-patterns/factory_pattern.rs)
-
-### Behavioural Patterns
-  
-1. **Command**
-
-  [Code Example](design-patterns/command_pattern.rs)
-
-2. **Observer**
-
-  [Code Example](design-patterns/observer_pattern.rs)
-
-3. **Strategy**
-
-4. **State**
-
-5. **Iterator**
-
-### Structural Patterns
-
-1. **Adaptor**
-
-2. **Decorator**
-
-3. **Facade**
-
-4. **Proxy**
 
 #### Commands
 
