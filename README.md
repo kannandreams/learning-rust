@@ -28,24 +28,22 @@
 - Concurrency
 - Macros
 
-
 ## Design Patterns
 
-| Category       | Pattern           | Rust Example                                         |
-|----------------|------------------|-------------------------------------------------------|
-| Creational     | Singleton        | [Rust Code](design-patterns/singleton_pattern.rs)     |
-|                | Builder          | [Rust Code](design-patterns/builder_pattern.rs)       |
-|                | Abstract Factory | [Rust Code](design-patterns/factory_pattern.rs)       |
-| Behavioural    | Command          | [Rust Code](design-patterns/command_pattern.rs)       |
-|                | Observer         | [Rust Code](design-patterns/observer_pattern.rs)      |
-|                | Strategy         | [Rust Code](design-patterns/strategy_pattern.rs)      |
-|                | State            | [Rust Code](design-patterns/state_pattern.rs)         |
-|                | Iterator         | TODO                                                  |
-| Structural     | Adapter          | [Rust Code](design-patterns/adaptor_pattern.rs)       |
-|                | Decorator        | [Rust Code](design-patterns/decorator_pattern.rs)     |
-|                | Facade           | TODO                                                  |
-|                | Proxy            | TODO                                                  |
-
+| Category    | Pattern          | Rust Example                                      |
+| ----------- | ---------------- | ------------------------------------------------- |
+| Creational  | Singleton        | [Rust Code](design-patterns/singleton_pattern.rs) |
+|             | Builder          | [Rust Code](design-patterns/builder_pattern.rs)   |
+|             | Abstract Factory | [Rust Code](design-patterns/factory_pattern.rs)   |
+| Behavioural | Command          | [Rust Code](design-patterns/command_pattern.rs)   |
+|             | Observer         | [Rust Code](design-patterns/observer_pattern.rs)  |
+|             | Strategy         | [Rust Code](design-patterns/strategy_pattern.rs)  |
+|             | State            | [Rust Code](design-patterns/state_pattern.rs)     |
+|             | Iterator         | TODO                                              |
+| Structural  | Adapter          | [Rust Code](design-patterns/adaptor_pattern.rs)   |
+|             | Decorator        | [Rust Code](design-patterns/decorator_pattern.rs) |
+|             | Facade           | TODO                                              |
+|             | Proxy            | TODO                                              |
 
 #### Commands
 
@@ -69,3 +67,9 @@
 - #[allow(dead_code)]
 
 #### Learning Projects
+
+#### Rust Books
+
+[Rust Design Patterns](https://rust-unofficial.github.io/patterhgs/)
+
+[Awesome Rust Books](https://github.com/sger/RustBooks)
