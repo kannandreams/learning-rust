@@ -110,12 +110,13 @@
 
 ## Frameworks
 
-* [Tuari](https://v2.tauri.app/)
-    - Create small, fast, secure, cross-platform applications
-* [dioxus](https://dioxuslabs.com/)
-    - Dioxus is the Rust framework for building fullstack web, desktop, and mobile apps. Iterate with live hotreloading, add server functions, and deploy in record time.
-* [Burn](https://burn.dev/)
-    - Deep learning
+| Framework    | Purpose          |
+| ----------- | ---------------- | 
+|[Tuari](https://v2.tauri.app/)| to create small, fast, secure, cross-platform applications|
+|[dioxus](https://dioxuslabs.com/)| to building fullstack web, desktop, and mobile apps. |
+|[Burn](https://burn.dev/)| Deep learning framework like Pytorch for python
+|[axum](https://docs.rs/axum/latest/axum/)| web application framework like fastapi in python
+
 
 ## Rust Books
 
