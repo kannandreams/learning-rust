@@ -101,15 +101,19 @@
 * Rust Tooling (Clippy, Rustfmt, Rust Analyzer)
 
 
-#### Rust Books
+### Rust Books
 
-- [Rust Design Patterns](https://rust-unofficial.github.io/patterhgs/)
+- [Awesome Rust Books](https://github.com/sger/RustBooks) - Offcourse, Awesome ! 
 
-- [Awesome Rust Books](https://github.com/sger/RustBooks)
+- [Rust Design Patterns](https://rust-unofficial.github.io/patterhgs/) - Important for production system and software principles
 
 - [Comprehensive Rust](https://google.github.io/comprehensive-rust/) - free Rust course developed by the Android team at Google
 
-- [Rust 101](https://www.ralfj.de/projects/rust-101/main.html) - Outdated may be
+- [Easy Rust](https://dhghomon.github.io/easy_rust/Chapter_0.html) - Explained little more simple language and easy to follow. 
+
+- [Fast Track to Rust](https://freddiehaddad.github.io/fast-track-to-rust/#welcome-to-fast-track-to-rust) - Learn while building grep-like program, called rustle
+
+- [Rust 101](https://www.ralfj.de/projects/rust-101/main.html) - Outdated may be but i liked the explanations.
 
 
 ## Design Patterns
@@ -129,28 +133,31 @@
 |             | Facade           | TODO                                              |
 |             | Proxy            | TODO                                              |
 
-#### Commands
+### Commands Snippets
 
-`cargo new rust-learning --bin`
+```rust
+cargo new rust-learning --bin
 
-`cargo run`
 
-`cargo new utils --lib`
+cargo run
+cargo new utils --lib
+cargo run --example <filename>
 
-`cargo run --example <filename>`
+cargo build --bin another-bin
 
-### Choose the bin
+cargo run --bin rust-learning
 
-`cargo build --bin another-bin`
+cargo run --bin another-bin
+```
 
-`cargo run --bin rust-learning`
-`cargo run --bin another-bin`
 
-### Macros
+### Top Macros
+
+`TODO: will have to convert into Macro.md file`
 
 - #[allow(dead_code)]
 
-#### Learning Projects
+### Learning Courses
 
-
+- Code Crafters ( build real time projects )
 
