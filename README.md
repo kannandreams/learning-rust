@@ -1,6 +1,5 @@
-# Rust cookbook
 
-## Learning Guide for Rustaceans
+# Learning Guide for Rustaceans 🦀
 
 ## 1. Getting Started
 
@@ -20,7 +19,8 @@
 
 * Ownership & Borrowing
 * References & Mutable References
-* Lifetimes
+* Clone
+* Copy, Lifetimes
 * Memory Safety & Rules
 
 ## 4. Data Structures
@@ -30,8 +30,10 @@
 * Tuples
 * Collections (Vec, HashMap, HashSet, etc.)
 * Implementation of Custom Types
+* Iterators
+* Closures
 
-## 5. Modules & Packages
+## 5.  Associated Types, Modules & Packages
 
 * Modules & Paths
 * Crates
@@ -45,6 +47,10 @@
 * Trait Objects
 * Type Aliases
 * Pattern Matching & Destructuring
+* Concurrency, Arc, Send
+* Slices, Arrays, External Dependencies
+* Mutex, Interior Mutability (cont.), RwLock, Sync
+* Unsafe Rust, Drop
 
 ## 7. Error Handling
 
@@ -94,6 +100,18 @@
 * Performance Profiling & Benchmarks
 * Rust Tooling (Clippy, Rustfmt, Rust Analyzer)
 
+
+#### Rust Books
+
+- [Rust Design Patterns](https://rust-unofficial.github.io/patterhgs/)
+
+- [Awesome Rust Books](https://github.com/sger/RustBooks)
+
+- [Comprehensive Rust](https://google.github.io/comprehensive-rust/) - free Rust course developed by the Android team at Google
+
+- [Rust 101](https://www.ralfj.de/projects/rust-101/main.html) - Outdated may be
+
+
 ## Design Patterns
 
 | Category    | Pattern          | Rust Example                                      |
@@ -134,8 +152,5 @@
 
 #### Learning Projects
 
-#### Rust Books
 
-[Rust Design Patterns](https://rust-unofficial.github.io/patterhgs/)
 
-[Awesome Rust Books](https://github.com/sger/RustBooks)
