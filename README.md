@@ -100,8 +100,24 @@
 * Performance Profiling & Benchmarks
 * Rust Tooling (Clippy, Rustfmt, Rust Analyzer)
 
+## Miscs
 
-### Rust Books
+* Profiling
+* Debugging
+* Unit Testing
+* CI/CD
+* Integrate Python ( Invoke rust in Python )
+
+## Frameworks
+
+* [Tuari](https://v2.tauri.app/)
+    - Create small, fast, secure, cross-platform applications
+* [dioxus](https://dioxuslabs.com/)
+    - Dioxus is the Rust framework for building fullstack web, desktop, and mobile apps. Iterate with live hotreloading, add server functions, and deploy in record time.
+* [Burn](https://burn.dev/)
+    - Deep learning
+
+## Rust Books
 
 - [Awesome Rust Books](https://github.com/sger/RustBooks) - Offcourse, Awesome ! 
 
