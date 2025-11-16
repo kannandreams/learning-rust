@@ -110,7 +110,7 @@
 
 ## Frameworks
 
-| Framework    | Purpose          |
+| Framework    | Purpose         |
 | ----------- | ---------------- | 
 |[Tuari](https://v2.tauri.app/)| to create small, fast, secure, cross-platform applications|
 |[dioxus](https://dioxuslabs.com/)| to building fullstack web, desktop, and mobile apps. |
@@ -120,17 +120,14 @@
 
 ## Rust Books
 
-- [Awesome Rust Books](https://github.com/sger/RustBooks) - Offcourse, Awesome ! 
-
-- [Rust Design Patterns](https://rust-unofficial.github.io/patterhgs/) - Important for production system and software principles
-
-- [Comprehensive Rust](https://google.github.io/comprehensive-rust/) - free Rust course developed by the Android team at Google
-
-- [Easy Rust](https://dhghomon.github.io/easy_rust/Chapter_0.html) - Explained little more simple language and easy to follow. 
-
-- [Fast Track to Rust](https://freddiehaddad.github.io/fast-track-to-rust/#welcome-to-fast-track-to-rust) - Learn while building grep-like program, called rustle
-
-- [Rust 101](https://www.ralfj.de/projects/rust-101/main.html) - Outdated may be but i liked the explanations.
+| Online Books| Short Note       |
+| ----------- | ---------------- | 
+|[Awesome Rust Books](https://github.com/sger/RustBooks)|Offcourse, Awesome ! |
+|[Rust Design Patterns](https://rust-unofficial.github.io/patterhgs/)|Important for production system and software principles|
+|[Comprehensive Rust](https://google.github.io/comprehensive-rust/)|free Rust course developed by the Android team at Google
+|[Easy Rust](https://dhghomon.github.io/easy_rust/Chapter_0.html)|Explained little more simple language and easy to follow. 
+|[Fast Track to Rust](https://freddiehaddad.github.io/fast-track-to-rust/#welcome-to-fast-track-to-rust)|Learn while building grep-like program, called rustle
+|[Rust 101](https://www.ralfj.de/projects/rust-101/main.html)|Outdated may be but i liked the explanations.
 
 
 ## Design Patterns
