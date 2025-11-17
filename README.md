@@ -193,6 +193,10 @@
 |[dioxus](https://dioxuslabs.com/)| to building fullstack web, desktop, and mobile apps. |
 |[Burn](https://burn.dev/)| Deep learning framework like Pytorch for python
 |[axum](https://docs.rs/axum/latest/axum/)| web application framework like fastapi in python
+|[Yew](https://yew.rs/)| web assembly framework
+|[leptos](https://leptos.dev/)| web app framework similar like Yew
+|[crux](https://github.com/redbadger/crux)| Cross-platform app development in Rust
+
 
 
 ## Rust Books
