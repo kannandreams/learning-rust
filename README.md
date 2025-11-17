@@ -1,5 +1,5 @@
 
-# Learning Guide to become Rustaceans 🦀
+# Learning Guide to become Rustacean 🦀
 
 ## 1. Getting Started
 
