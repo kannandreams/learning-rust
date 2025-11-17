@@ -187,15 +187,17 @@
 
 ## Frameworks
 
-| Framework    | Purpose         |
-| ----------- | ---------------- | 
-|[Tuari](https://v2.tauri.app/)| to create small, fast, secure, cross-platform applications|
-|[dioxus](https://dioxuslabs.com/)| to building fullstack web, desktop, and mobile apps. |
-|[Burn](https://burn.dev/)| Deep learning framework like Pytorch for python
-|[axum](https://docs.rs/axum/latest/axum/)| web application framework like fastapi in python
-|[Yew](https://yew.rs/)| web assembly framework
-|[leptos](https://leptos.dev/)| web app framework similar like Yew
-|[crux](https://github.com/redbadger/crux)| Cross-platform app development in Rust
+| Framework    | Purpose         | tag |
+| ----------- | ---------------- | ----| 
+|[Tuari](https://v2.tauri.app/)| to create small, fast, secure, cross-platform applications| cross-platform |
+|[dioxus](https://dioxuslabs.com/)| to building fullstack web, desktop, and mobile apps. | cross-platform|
+|[Burn](https://burn.dev/)| Deep learning framework like Pytorch for python | AI/ML |
+|[rig](https://github.com/0xPlaygrounds/rig)| Build modular and scalable LLM Applications in Rust | AI/LLM|
+|[axum](https://docs.rs/axum/latest/axum/)| web application framework like fastapi in python | web |
+|[Yew](https://yew.rs/)| web assembly framework | web |
+|[leptos](https://leptos.dev/)| web app framework similar like Yew | web |
+|[crux](https://github.com/redbadger/crux)| Cross-platform app development in Rust | cross-platform |
+
 
 
 
