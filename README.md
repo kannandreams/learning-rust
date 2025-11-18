@@ -184,7 +184,8 @@
   - SQLX / SeaORM
   - Tonic (gRPC)
 
-## Design Patterns
+## Software Design Patterns
+I have written the examples with AI / Data use cases
 
 | Category    | Pattern          | Rust Example                                      |
 | ----------- | ---------------- | ------------------------------------------------- |
@@ -246,7 +247,6 @@
 
 ### Newsletters
 - https://this-week-in-rust.org/
-
 
 
 ## Commands
