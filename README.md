@@ -211,10 +211,16 @@
 |[Fast Track to Rust](https://freddiehaddad.github.io/fast-track-to-rust/#welcome-to-fast-track-to-rust)|Learn while building grep-like program, called rustle
 |[Rust 101](https://www.ralfj.de/projects/rust-101/main.html)|Outdated may be but i liked the explanations.
 
-## Cheatsheets - Don't miss to bookmark
+## Don't miss to bookmark
 
+### Cheat sheets
 - https://cheats.rs/
 - https://speedsheet.io/s/rust
+
+### Forums
+- https://rust-lang.zulipchat.com/
+- https://users.rust-lang.org/
+
 
 
 ## Design Patterns
