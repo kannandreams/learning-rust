@@ -199,7 +199,6 @@
 |[crux](https://github.com/redbadger/crux)| Cross-platform app development in Rust | cross-platform |
 
 
-
 ## Rust Books
 
 | Online Books| Short Note       |
@@ -210,17 +209,6 @@
 |[Easy Rust](https://dhghomon.github.io/easy_rust/Chapter_0.html)|Explained little more simple language and easy to follow. 
 |[Fast Track to Rust](https://freddiehaddad.github.io/fast-track-to-rust/#welcome-to-fast-track-to-rust)|Learn while building grep-like program, called rustle
 |[Rust 101](https://www.ralfj.de/projects/rust-101/main.html)|Outdated may be but i liked the explanations.
-
-## Don't miss to bookmark
-
-### Cheat sheets
-- https://cheats.rs/
-- https://speedsheet.io/s/rust
-
-### Forums
-- https://rust-lang.zulipchat.com/
-- https://users.rust-lang.org/
-
 
 
 ## Design Patterns
@@ -240,20 +228,32 @@
 |             | Facade           | TODO                                              |
 |             | Proxy            | TODO                                              |
 
-### Commands Snippets
+
+## Don't miss to bookmark
+
+### Cheat sheets
+- https://cheats.rs/
+- https://speedsheet.io/s/rust
+
+### Forums
+- https://rust-lang.zulipchat.com/
+- https://users.rust-lang.org/
+
+### Newsletters
+- https://this-week-in-rust.org/
+
+
+
+## Commands
 
 ```rust
+// toolchain commands
 cargo new rust-learning --bin
-
-
 cargo run
 cargo new utils --lib
 cargo run --example <filename>
-
 cargo build --bin another-bin
-
 cargo run --bin rust-learning
-
 cargo run --bin another-bin
 ```
 
