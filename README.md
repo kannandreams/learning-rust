@@ -209,7 +209,7 @@
 |[Easy Rust](https://dhghomon.github.io/easy_rust/Chapter_0.html)|Explained little more simple language and easy to follow. 
 |[Fast Track to Rust](https://freddiehaddad.github.io/fast-track-to-rust/#welcome-to-fast-track-to-rust)|Learn while building grep-like program, called rustle
 |[Rust 101](https://www.ralfj.de/projects/rust-101/main.html)|Outdated may be but i liked the explanations.
-
+|[The Little Book of Rust Macros](https://lukaswirth.dev/tlborm/)| Learn about rust macros in detail
 
 ## Design Patterns
 
@@ -264,6 +264,8 @@ cargo run --bin another-bin
 
 - #[allow(dead_code)]
 
+### Rust Channels
+- Discord : https://discord.gg/rust-lang-community
 
 ---
 
