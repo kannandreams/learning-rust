@@ -184,6 +184,23 @@
   - SQLX / SeaORM
   - Tonic (gRPC)
 
+## Design Patterns
+
+| Category    | Pattern          | Rust Example                                      |
+| ----------- | ---------------- | ------------------------------------------------- |
+| Creational  | Singleton        | [Rust Code](design-patterns/singleton_pattern.rs) |
+|             | Builder          | [Rust Code](design-patterns/builder_pattern.rs)   |
+|             | Abstract Factory | [Rust Code](design-patterns/factory_pattern.rs)   |
+| Behavioural | Command          | [Rust Code](design-patterns/command_pattern.rs)   |
+|             | Observer         | [Rust Code](design-patterns/observer_pattern.rs)  |
+|             | Strategy         | [Rust Code](design-patterns/strategy_pattern.rs)  |
+|             | State            | [Rust Code](design-patterns/state_pattern.rs)     |
+|             | Iterator         | TODO                                              |
+| Structural  | Adapter          | [Rust Code](design-patterns/adaptor_pattern.rs)   |
+|             | Decorator        | [Rust Code](design-patterns/decorator_pattern.rs) |
+|             | Facade           | TODO                                              |
+|             | Proxy            | TODO                                              |
+
 
 ## Frameworks
 
@@ -211,23 +228,11 @@
 |[Rust 101](https://www.ralfj.de/projects/rust-101/main.html)|Outdated may be but i liked the explanations.
 |[The Little Book of Rust Macros](https://lukaswirth.dev/tlborm/)| Learn about rust macros in detail
 
-## Design Patterns
 
-| Category    | Pattern          | Rust Example                                      |
-| ----------- | ---------------- | ------------------------------------------------- |
-| Creational  | Singleton        | [Rust Code](design-patterns/singleton_pattern.rs) |
-|             | Builder          | [Rust Code](design-patterns/builder_pattern.rs)   |
-|             | Abstract Factory | [Rust Code](design-patterns/factory_pattern.rs)   |
-| Behavioural | Command          | [Rust Code](design-patterns/command_pattern.rs)   |
-|             | Observer         | [Rust Code](design-patterns/observer_pattern.rs)  |
-|             | Strategy         | [Rust Code](design-patterns/strategy_pattern.rs)  |
-|             | State            | [Rust Code](design-patterns/state_pattern.rs)     |
-|             | Iterator         | TODO                                              |
-| Structural  | Adapter          | [Rust Code](design-patterns/adaptor_pattern.rs)   |
-|             | Decorator        | [Rust Code](design-patterns/decorator_pattern.rs) |
-|             | Facade           | TODO                                              |
-|             | Proxy            | TODO                                              |
-
+## Free Video Courses
+| Course title| Publisher        |
+| ----------- | ---------------- | 
+|[beginners-series-to-rust](https://learn.microsoft.com/en-us/shows/beginners-series-to-rust/)| Microsoft
 
 ## Don't miss to bookmark
 
