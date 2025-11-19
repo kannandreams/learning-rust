@@ -215,6 +215,8 @@ I have written the examples with AI / Data use cases
 |[Yew](https://yew.rs/)| web assembly framework | web |
 |[leptos](https://leptos.dev/)| web app framework similar like Yew | web |
 |[crux](https://github.com/redbadger/crux)| Cross-platform app development in Rust | cross-platform |
+|[iced](https://iced.rs/)| Cross-platform GUI library | GUI |
+|[ratatui](https://ratatui.rs/)| Terminal User Interfaces | GUI |
 
 
 ## Rust Books
