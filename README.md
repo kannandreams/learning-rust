@@ -184,6 +184,11 @@
   - SQLX / SeaORM
   - Tonic (gRPC)
 
+## Pre-Rust Foundations
+
+[🧵 Stack vs Heap](learning-rust/fundamentals/stack-heap.md)
+
+
 ## Software Design Patterns
 I have written the examples with AI / Data use cases
 
