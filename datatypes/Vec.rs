@@ -33,7 +33,7 @@ fn main() {
     */
 
     // or we could create using vec macro
-    let vec3 = vec!["a", "b", "c"];
+    let mut vec3 = vec!["a", "b", "c"];
     /* What is the vec![] macro?
         - It is a macro built into Rust’s standard library.
         - Rust expands it roughly into:
@@ -67,4 +67,9 @@ fn main() {
     contains() only needs to look at the element, not take ownership.
     Taking ownership would require cloning or moving elements — inefficient or impossible.
     */
+
+    // push elements
+    //you must use mut to push elements into a Vec.
+    vec3.push("d");
+    println!("{:?}", vec3);
 }
