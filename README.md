@@ -255,6 +255,9 @@ I have written the examples with AI / Data use cases
 ### Newsletters
 - https://this-week-in-rust.org/
 
+### Rust Job Opportunity
+- https://rustjobs.dev/
+
 
 ## Commands
 
